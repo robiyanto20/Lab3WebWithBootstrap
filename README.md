@@ -24,7 +24,7 @@ Latihan 3 Koneksi database (data barang dengan menggunakan PHP, Css dan Bootstra
        </tr></p>
        </table>
        
-       ![Logo GitHub](https://raw.githubusercontent.com/robiyanto20/Lab3WebWithBootstrap/main/G1.jpg)
+       ![Logo GitHub](https://user-images.githubusercontent.com/38169654/228096075-4ef372d3-cd26-4c0e-92bd-9bac0742162e.jpg)
 
        
 
