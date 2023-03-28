@@ -24,5 +24,4 @@ Latihan 3 Koneksi database (data barang dengan menggunakan PHP, Css dan Bootstra
        </tr></p>
        </table>
        
-       ![(https://user-images.githubusercontent.com/38169654/228202968-1943d9ec-d754-4a9c-b370-0f1ca08bd5b0.gif)
 
