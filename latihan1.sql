@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 21 Mar 2023 pada 07.34
+-- Waktu pembuatan: 28 Mar 2023 pada 02.39
 -- Versi server: 10.4.24-MariaDB
 -- Versi PHP: 7.4.29
 
@@ -42,9 +42,9 @@ CREATE TABLE `data_barang` (
 --
 
 INSERT INTO `data_barang` (`id_barang`, `kategori`, `nama`, `gambar`, `harga_beli`, `harga_jual`, `stok`) VALUES
-(1, 'Hand Phone', 'HP Samsung Android', 'gambar/1.jpg', '2000000', '2400000', 5),
-(2, 'Hand Phone', 'HP Xiaomi Android', 'gambar/2.jpg', '1000000', '1400000', 5),
-(3, 'Komputer', 'HP OPPO Android', 'gambar/3.jpg', '1800000', '2300000', 5);
+(1, 'Komputer', 'HP Samsung Android', 'gambar/G1.jpg', '2000000', '2400000', 5),
+(6, 'Hand Phone', 'Xiaomi 4x 3GB Memory 32GB', 'gambar/G2.jpg', '2400000', '1700000', 20),
+(7, 'Hand Phone', 'Realme C15 4GB Memory 64GB', 'gambar/G3.jpg', '2700000', '1800000', 10);
 
 --
 -- Indexes for dumped tables
@@ -64,7 +64,7 @@ ALTER TABLE `data_barang`
 -- AUTO_INCREMENT untuk tabel `data_barang`
 --
 ALTER TABLE `data_barang`
-  MODIFY `id_barang` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id_barang` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
